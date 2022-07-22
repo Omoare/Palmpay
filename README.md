@@ -1,6 +1,6 @@
-# htttp
+# Palmpay
 
-A new Flutter project.
+A plampay clone for tutorial purpose.
 
 ## Getting Started
 
